@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+prisma
+langchain
+qdrant-client
+openai
+psycopg2-binary
+pgvector
+python-dotenv
+pydantic
+redis
